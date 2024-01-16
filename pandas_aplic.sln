@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "pandas_aplic", "pandas_aplic\pandas_aplic.pyproj", "{75BA94E0-B14D-4E60-B5B8-695A23529DFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75BA94E0-B14D-4E60-B5B8-695A23529DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75BA94E0-B14D-4E60-B5B8-695A23529DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68E749AE-49BB-41F5-B284-A98538743BF0}
+	EndGlobalSection
+EndGlobal
